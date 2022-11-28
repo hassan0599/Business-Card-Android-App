@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">John Doe</string>
+    <string name="title">Associate Software Developer</string>
+    <string name="number">+1 (234) 567-8910</string>
+    <string name="email">johndoe@example.com</string>
+    <string name="linkedin">linkedin.com/in/john-doe-1a234567b/</string>
+    <string name="googledeveloper">g.dev/johndoe/</string>
+    <string name="github">github.com/johndoe123/</string>
+</resources>
